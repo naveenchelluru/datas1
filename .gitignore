@@ -49,3 +49,5 @@ web_modules/
 
 # Optional npm cache directory
 .npm
+
+.env
